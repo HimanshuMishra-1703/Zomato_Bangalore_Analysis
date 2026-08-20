@@ -1,37 +1,50 @@
-# Zomato Bangalore Restaurant Analysis
+# Zomato Bangalore Restaurant Data Analysis
 
 ## Project Overview
-This project performs exploratory data analysis on Zomato restaurant data from Bangalore to identify patterns in restaurant types, ratings, locations, cuisines, online ordering, table booking, and approximate cost.
 
-## Tools & Technologies
+This project analyzes Bangalore restaurant data to identify patterns in
+restaurant locations, restaurant types, cuisines, ratings, online ordering,
+table booking, and approximate cost.
+
+## Objective
+
+The objective is to use Python-based exploratory data analysis to clean the
+dataset, identify patterns, visualize important findings, and derive
+meaningful insights from restaurant data.
+
+## Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ## Analysis Performed
+
+- Dataset exploration and data quality checks
+- Missing-value handling
+- Duplicate record removal
+- Rating and cost data cleaning
+- Restaurant distribution by location
 - Restaurant type analysis
-- Top restaurant locations
-- Online ordering availability
-- Average rating vs cost category
-- Votes vs rating correlation
-- Key business insights from the data
+- Online ordering analysis
+- Table booking and rating analysis
+- Cost category and rating analysis
+- Cuisine popularity analysis
+- Votes vs rating correlation analysis
 
-## Project Structure
+## Key Insights
 
-- 
-otebook/ - Jupyter Notebook containing the analysis
-- output/ - Generated charts and visualizations
-- data/ - Dataset location (the original dataset is not included because it exceeds GitHub's 100 MB file limit)
-
-## Dataset
-The original Zomato dataset is approximately 547 MB and is not included in this repository due to GitHub's file size limitation.
-
-To run the notebook, place the dataset at:
-
-data/zomato.csv
+- BTM has the highest number of restaurant listings among the analyzed locations.
+- Quick Bites is the most common restaurant type.
+- 58.85% of restaurants accept online orders.
+- Restaurants offering table booking have a higher average rating in this dataset.
+- Higher-cost restaurants generally have higher average ratings.
+- North Indian is the most commonly listed cuisine.
+- Votes and ratings have a moderate positive correlation of approximately 0.4335.
 
 ## Conclusion
-The analysis uses Python-based exploratory data analysis and visualizations to understand restaurant trends and customer behavior in Bangalore.
+
+The project demonstrates how Python and Pandas can be used to clean,
+explore, visualize, and derive insights from real-world restaurant data.
