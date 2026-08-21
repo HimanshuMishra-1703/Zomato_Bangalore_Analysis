@@ -51,4 +51,4 @@ explore, visualize, and derive insights from real-world restaurant data.
 
 ## Dashboard Preview
 
-![Zomato Bangalore Restaurant Analytics Dashboard](output/dashboard.png)
+![Zomato Bangalore Restaurant Analytics Dashboard](output/Dashboard.png)
