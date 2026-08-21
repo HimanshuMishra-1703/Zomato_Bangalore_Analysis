@@ -48,3 +48,7 @@ meaningful insights from restaurant data.
 
 The project demonstrates how Python and Pandas can be used to clean,
 explore, visualize, and derive insights from real-world restaurant data.
+
+## Dashboard Preview
+
+![Zomato Bangalore Restaurant Analytics Dashboard](output/dashboard.png)
