@@ -16,7 +16,7 @@ meaningful insights from restaurant data.
 
 - Python
 - Pandas
-- NumPy
+- Power BI
 - Matplotlib
 - Jupyter Notebook
 
